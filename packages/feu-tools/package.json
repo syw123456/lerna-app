@@ -13,10 +13,8 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://npm-internal.bybit.com/"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "eeb6d15cbd60003af2db1b1109123ee862ef9b15"
 }
