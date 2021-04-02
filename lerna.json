@@ -2,5 +2,16 @@
   "packages": [
     "packages/*"
   ],
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "node_modules/**"
+      ],
+      "message": "chore(release): :bookmark: publish",
+      "conventionalCommits": true,
+      "npmClient": "yarn",
+      "noVerifyAccess": true
+    }
+  },
   "version": "independent"
 }
