@@ -1,6 +1,6 @@
 {
   "name": "feu-app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "> TODO: description",
   "author": "arian <arian.shi@bybit.com>",
   "homepage": "",
@@ -18,7 +18,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "feu-tools": "^0.1.0",
-    "feu-ui": "^0.1.0"
+    "feu-tools": "^0.2.0",
+    "feu-ui": "^0.2.0"
   }
 }
